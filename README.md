@@ -68,6 +68,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vanshikaMaheshwari&theme=onedark&row=2&column=6)
 
+## 🤝 Random Dev Quote
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## ⬆️ Top Contributed Repo
