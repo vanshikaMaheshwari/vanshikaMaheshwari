@@ -66,9 +66,9 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vanshikaMaheshwari&theme=tokyonight&row=2&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=vanshikaMaheshwari&theme=onedark&row=2&column=6)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## ⬆️ Top Contributed Repo
 
