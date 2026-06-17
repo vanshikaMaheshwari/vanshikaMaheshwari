@@ -1,4 +1,4 @@
-<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/5e842b96-e1bb-42e3-8a1f-6ebb231e7a00" /># 👋 About Me:
+# 👋 About Me:
 
 - 🚀 My passions include **multitasking**, and **dancing** while also being dedicated to **machine learning**.
 - 📊 I prioritize **quality**, rather than focusing on **quality**.
