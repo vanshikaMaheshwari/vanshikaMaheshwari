@@ -1,4 +1,4 @@
-# 👋 About Me:
+<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/5e842b96-e1bb-42e3-8a1f-6ebb231e7a00" /># 👋 About Me:
 
 - 🚀 My passions include **multitasking**, and **dancing** while also being dedicated to **machine learning**.
 - 📊 I prioritize **quality**, rather than focusing on **quality**.
@@ -57,15 +57,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 📊 GitHub Stats:
-![Your Stats](https://github-readme-stats.vercel.app/api?username=vanshikaMaheshwari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaMaheshwari&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=vanshikaMaheshwari&theme=tokyonight)
+<p align="left">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=c9d1d9" />
+</p>
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=vanshikamaheshwari&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=ff79c6&fire=ff79c6&currStreakNum=388bfd&sideNums=388bfd&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Random Dev Quote
 
