@@ -58,13 +58,14 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 📊 GitHub Stats:
-
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=vanshikaMaheshwari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaMaheshwari&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=vanshikaMaheshwari&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vanshikamaheshwari)
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=vanshikamaheshwari&theme=tokyonight)
 
 ## 🤝 Random Dev Quote
 
