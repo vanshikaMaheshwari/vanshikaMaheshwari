@@ -61,15 +61,15 @@
 ---
 
 <p align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=c9d1d9" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vanshikaMaheshwari&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaMaheshwari&layout=compact&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=c9d1d9" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=ff79c6&fire=ff79c6&currStreakNum=388bfd&sideNums=388bfd&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vanshikaMaheshwari&hide_border=true&background=00000000&ring=ff79c6&fire=ff79c6&currStreakNum=388bfd&sideNums=388bfd&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vanshikaMaheshwari&theme=dracula&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/vanshikaMaheshwari/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Random Dev Quote
 
