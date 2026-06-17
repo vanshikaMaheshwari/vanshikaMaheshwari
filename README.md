@@ -64,7 +64,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vanshikaMaheshwari&theme=tokyonight&row=2&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=vanshikamaheshwari)
 
 ## 🤝 Random Dev Quote
 
