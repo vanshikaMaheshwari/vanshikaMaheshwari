@@ -1,4 +1,4 @@
-# 👋 About Me:
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&width=600&lines=Hi,+I+am+Vanshika+Maheshwari)](https://git.io/typing-svg)
 
 - 🚀 My passions include **multitasking**, and **dancing** while also being dedicated to **machine learning**.
 - 📊 I prioritize **quality**, rather than focusing on **quality**.
