@@ -58,7 +58,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 📊 GitHub Stats
----
 
 <p align="left">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vanshikaMaheshwari&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9&count_private=true" />
@@ -67,7 +66,7 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=vanshikaMaheshwari&hide_border=true&background=00000000&ring=ff79c6&fire=ff79c6&currStreakNum=388bfd&sideNums=388bfd&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
+  <img height="200em" src="https://streak-stats.demolab.com/?user=vanshikaMaheshwari&hide_border=true&background=00000000&ring=ff79c6&fire=ff79c6&currStreakNum=388bfd&sideNums=388bfd&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vanshikaMaheshwari&theme=dracula&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
