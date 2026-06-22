@@ -65,7 +65,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vanshikaMaheshwari&theme=dracula&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/vanshikaMaheshwari/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/vanshikaMaheshwari/vanshikaMaheshwari/output/github-contribution-grid-snake-dark.svg)
 
 ## 🤝 Random Dev Quote
 
