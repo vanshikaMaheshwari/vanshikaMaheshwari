@@ -63,6 +63,8 @@
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaMaheshwari&layout=compact&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=c9d1d9)](https://github.com/vanshikaMaheshwari)
 [![streak](https://streak-stats.demolab.com/?user=vanshikaMaheshwari&hide_border=true&background=00000000&ring=ff79c6&fire=ff79c6&currStreakNum=388bfd&sideNums=388bfd&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)](https://github.com/vanshikaMaheshwari)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshikaMaheshwari&theme=dracula&hide_border=true)](https://github.com/vanshikaMaheshwari)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=vanshikaMaheshwari&theme=dracula&row=1&column=6&no-bg=true&no-frame=true)](https://github.com/vanshikaMaheshwari)
 
 ![Snake](https://raw.githubusercontent.com/vanshikaMaheshwari/vanshikaMaheshwari/output/github-contribution-grid-snake-dark.svg)
